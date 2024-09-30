@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Hítallo William, a graduate in Information Systems from the Federal University of Rio Grande do Norte. I am passionate about the field of software development and currently work as a senior software developer at Adaga. With five years of experience in software development, I have had great work opportunities on some complex and exciting projects, working with various technologies and exploring different solutions.
+I am Hítallo William, a graduate in Information Systems from the Federal University of Rio Grande do Norte. I am passionate about the field of software development and currently work as a senior software developer at Kanastra. With five years of experience in software development, I have had great work opportunities on some complex and exciting projects, working with various technologies and exploring different solutions.
 
 ## Expertise 🚀
 
